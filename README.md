@@ -4,7 +4,10 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-Ghsjulian/Ghsjulian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My Email    --- ghsjulian@gmail.com OR ghs.julian@yandex.com
+My Facebook --- https://facebook.com/ghs.julian.80
+My Twitter  --- Ghs Julian 
+My YouTube  --- Ghs Julian 
+My Instagram -- Ghs Julian 
+
+I'm Still Learning , I started Coding Since 2019 . And Now i completed 8 Languages 3 Computer languages and Markup Languages With HTML CSS Bootstrap JavaScript jQuery C MySQL PHP etc......
