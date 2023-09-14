@@ -2,7 +2,7 @@
 <h1 align="center" style="color:#fff">Hello There, I'm <span id="name" style="color:#18f6ff">Julie</span></h1>
 <h3 id="heading" align="center">A passionate web developer from Bangladesh.</h3>
 
-<img align="center" id="ghs" src="./ghs_logo.png" alt="Ghs Julian"/>
+<img style="border-radius:50%" width="200" height="200" align="center" id="ghs" src="./ghs_logo.png" alt="Ghs Julian"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghsjulian&label=Profile%20views&color=0e75b6&style=flat" alt="ghsjulian" /> </p>
 
