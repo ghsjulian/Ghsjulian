@@ -1,21 +1,8 @@
-<style>
-#name {
-    color : #60f9ff;
-    font-weight :900;
-    letter-spacing :2px;
-    font-size :2.2rem;
-}
-#heading {
-    color : #f09900;
-    font-weight :500;
-    font-size :2rem;
-}
-</style>
 
 <h1 align="center" style="color:#fff">Hello There, I'm <span id="name" style="color:#18f6ff">Julie</span></h1>
 <h3 id="heading" align="center">A passionate web developer from Bangladesh.</h3>
 
-<img align="center" id="ghs" src="https://ghs.rf.gd/images/ghs2.png" alt="Ghs Julian"/>
+<img align="center" id="ghs" src="./ghs_logo.png" alt="Ghs Julian"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghsjulian&label=Profile%20views&color=0e75b6&style=flat" alt="ghsjulian" /> </p>
 
