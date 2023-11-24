@@ -1,6 +1,6 @@
 <center>
 
-<img align="center "src="./__ghs__.png" width="250" height="250"><br>
+<img align="center" src="./__ghs__.png" width="250" height="250"><br>
 <h2 align="center">Ghs Julian</h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ghsjulian&label=Profile%20views&color=0e75b6&style=flat" alt="ghsjulian" /> </p>
 <h1 align="center">Hello There, I'm <span>Julie</span></h1>
