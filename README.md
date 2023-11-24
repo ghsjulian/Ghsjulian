@@ -1,12 +1,27 @@
+<center>
 
-<h1 align="center" style="color:#fff">Hello There, I'm <span id="name" style="color:#18f6ff">Julie</span></h1>
-<h3 id="heading" align="center">A passionate web developer from Bangladesh.</h3>
+<img src="./__ghs__.png" width="250" height="250"><br>
+<h2 align="center">Ghs Julian</h2>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ghsjulian&label=Profile%20views&color=0e75b6&style=flat" alt="ghsjulian" /> </p>
+<h1 align="center">Hello There, I'm <span>Julie</span></h1>
+<h3 id="heading" align="center">A passionate web developer from Bangladesh. Welcome to my GitHub Profile , Please visit my profile and see my all repository . If you want to hire
+me , I'm always available for here. You can contact with me including my contact details.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghsjulian&label=Profile%20views&color=0e75b6&style=flat" alt="ghsjulian" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghsjulian" alt="ghsjulian" /></a> </p>
+
+
+
+
+
+</center>
+
+
+
 
 - 🔭 I’m currently working on [Office Employee Management System](https://ghsjulian.github.io/office-management/)
+
+
+
 
 - 🌱 I’m currently learning **Nodejs , React , Express , C , C++ , Java , Python**
 
