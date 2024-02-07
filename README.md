@@ -1,63 +1,82 @@
-<center>
-
-<img align="center" src="./__ghs__.png" width="250" height="250"><br>
+<center align="center">
+  img align="center" src="./__ghs__.png" width="250" height="250"><br>
 <h2 align="center">Ghs Julian</h2>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ghsjulian&label=Profile%20views&color=0e75b6&style=flat" alt="ghsjulian" /> </p>
-<h1 align="center">Hello There, I'm <span>Julie</span></h1>
-<h3 id="heading" align="center">A passionate web developer from Bangladesh. Welcome to my GitHub Profile , Please visit my profile and see my all repository . If you want to hire
-me , I'm always available for here. You can contact with me including my contact details.</h3>
-
-
-
-
-
-
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ghsjulian&label=Profile%20views&color=0e75b6&style=flat" alt="ghsjulian" /></p>
 </center>
 
+---
 
+**Hello There, I'm Julie. A passionate web developer from Bangladesh. Welcome to my GitHub Profile , Please visit my profile and see my all repository . If you want to hire me , I'm always available for here. You can contact with me including contact details.**
 
+---
 
-- 🔭 I’m currently working on [Office Employee Management System](https://ghsjulian.github.io/office-management/)
+**Contact Me On Social Media**
 
+---
 
+[![Facebook Badge](https://img.shields.io/badge/-Ghs_Julian-036be4?style=flat-circle&logo=Facebook&logoColor=white&link=https://www.facebook.com/ghs.julian.85)](https://www.facebook.com/ghs.julian.85)
 
+[![Twitter Badge](https://img.shields.io/badge/-Ghs_Julian-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/GhsJulian)](https://twitter.com/GhsJulian)
 
-- 🌱 I’m currently learning **Nodejs , React , Express , C , C++ , Java , Python**
+[![Instagram Badge](https://img.shields.io/badge/-Ghs_Julian-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ghs.julian.85/)](https://instagram.com/ghs.julian.85)
 
-- 👯 I’m looking to collaborate on [Office Employee Management System](https://ghsjulian.github.io/office-management/)
+[![Linkedin Badge](https://img.shields.io/badge/-Ghs_Julian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anushkaverma/)](https://www.linkedin.com/in/ghs.julian.85/)
 
-- 🤝 I’m looking for help with [Nodejs , MySQL](https://ghsjulian.github.io/office-management/)
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ghsjulian?tab=repositories](https://github.com/Ghsjulian?tab=repositories)
+**Languages I have used**
 
-- 📝 I regularly write articles on [https://ghsjulian.blogspot.com](https://ghsjulian.blogspot.com)
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 
-- 💬 Ask me about **PHP or JavaScript**
+---
 
-- 📫 How to reach me **ghsjulian@gmail.com**
+**Some of the technologies I have worked with**
 
-- 📄 Know about my experiences [https://ghsjulian.netlify.app](https://ghsjulian.netlify.app)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
+![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/ghs julian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ghs julian" height="30" width="40" /></a>
-<a href="https://dev.to/ghs julian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ghs julian" height="30" width="40" /></a>
-<a href="https://twitter.com/ghs julian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ghs julian" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ghs julian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghs julian" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ghs julian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ghs julian" height="30" width="40" /></a>
-<a href="https://fb.com/ghs julian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ghs julian" height="30" width="40" /></a>
-<a href="https://instagram.com/ghs julian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ghs julian" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ghs julian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ghs julian" height="30" width="40" /></a>
+---
+
+**Web/Full Stack projects**
+
+[![My Website](https://img.shields.io/badge/-MyWebsite-000000?style=flat)](https://github.com/adamalston/v2)
+
+---
+
+**Cybersecurity projects**
+
+[![SQL Injection](https://img.shields.io/badge/-💉SQLInjection-000000?style=flat)](https://github.com/adamalston/SQL-Injection)
+
+---
+
+<p align="center">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghsjulian&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" width="330">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghsjulian&show_icons=true&locale=en&layout=compact" alt="ghsjulian" /></p>
+**GitHub Stars**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghsjulian&show_icons=true&locale=en" alt="ghsjulian" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ghsjulian&hide=stars&show_icons=true&theme=dracula&line_height=32" width="330">
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghsjulian&" alt="ghsjulian" /></p>
+---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghsjulian&count_private=true&theme=dracula&line_width=100%" width="330">
+
+</p>
+
+---
