@@ -1,7 +1,4 @@
-<center align="center"><center><img align="center" src="./Logopit_1707331565764.png" width="250" height="250"></center><br>
-<h2 align="center">Ghs Julian</h2>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ghsjulian&label=Profile%20views&color=0e75b6&style=flat" alt="ghsjulian" /></p>
-</center>
+<center> <img src="./ghs_5.png" width="250" height="250"> <br> <h2>Ghs Julian</h2> <p><img src="https://komarev.com/ghpvc/?username=ghsjulian&label=Profile%20views&color=0e75b6&style=flat" alt="ghsjulian" /></p> </center>
 
 ---
 
