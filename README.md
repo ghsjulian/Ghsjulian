@@ -1,4 +1,9 @@
-<img src="./ghs_5.png" width="250" height="250"> <br> <h2>Ghs Julian</h2> <p><img src="https://komarev.com/ghpvc/?username=ghsjulian&label=Profile%20views&color=0e75b6&style=flat" alt="ghsjulian" /></p>
+---
+
+<p><img src="https://komarev.com/ghpvc/?username=ghsjulian&label=Profile%20views&color=0e75b6&style=flat" alt="ghsjulian" /></p>
+<p>Developer Name : Ghs Julian</p>
+<p>Contact Email  : ghsjulian@outlook.com</p>
+<p>Personal Portfolio : https://ghsresume.netlify.app</p>
 
 ---
 
