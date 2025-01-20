@@ -21,7 +21,7 @@
 
 [![Instagram Badge](https://img.shields.io/badge/-Ghs_Julian-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ghs.julian.85/)](https://instagram.com/ghs.julian.85)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ghs_Julian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anushkaverma/)]([https://www.linkedin.com/in/ghs.julian.85/](https://www.linkedin.com/in/gobindo-bhor/))
+[![Linkedin Badge](https://img.shields.io/badge/-Ghs_Julian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anushkaverma/)]([https://www.linkedin.com/in/gobindo-bhor/](https://www.linkedin.com/in/gobindo-bhor/))
 
 ---
 
