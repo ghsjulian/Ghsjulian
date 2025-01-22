@@ -19,8 +19,8 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-00B2FF?style=flat&logo=x&logoColor=white&link=https://twitter.com/GhsJulian)](https://www.facebook.com/ghs.julian.85)
 
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white&link=)](https://twitter.com/GhsJulian)
-[![Instagram Badge](https://img.shields.io/badge/-Ghs_Julian-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ghs.julian.85/)](https://instagram.com/ghs.julian.85)
-[![Linkedin Badge](https://img.shields.io/badge/-Ghs_Julian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anushkaverma/)]([https://www.linkedin.com/in/gobindo-bhor/](https://www.linkedin.com/in/gobindo-bhor/))
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ghs.julian.85/)](https://instagram.com/ghs.julian.85)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anushkaverma/)]([https://www.linkedin.com/in/gobindo-bhor/](https://www.linkedin.com/in/gobindo-bhor/))
 
 [![Outlook Badge](https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white&link=https://ghsjulian@outlook.com)](https://ghsjulian@outlook.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white&link=https://instagram.com/ghs.julian.85/)](https://ghsjulian@gmail.com)
